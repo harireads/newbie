@@ -1,0 +1,2 @@
+# newbie
+Simple repository
